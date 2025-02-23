@@ -3,3 +3,4 @@
 почта --- gubin@mail.ru
 пароль --- 1Ww####
 Backend так же есть на GitHab.
+Ссылка --- https://exampleprojs.tw1.ru/sites/player/index.html
